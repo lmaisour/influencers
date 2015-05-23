@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  name: MyString
+  instagram: MyString
+  blog: MyString
+  followers: MyString
+  who_are_they: MyString
+  contact: MyString
+  date_contacted: 2015-05-23
+  contacted_by: MyString
+  notes: MyText
+  replied: false
+  contract: MyText
+  post_url: MyString
+  sales: 1
+
+two:
+  user_id: 
+  name: MyString
+  instagram: MyString
+  blog: MyString
+  followers: MyString
+  who_are_they: MyString
+  contact: MyString
+  date_contacted: 2015-05-23
+  contacted_by: MyString
+  notes: MyText
+  replied: false
+  contract: MyText
+  post_url: MyString
+  sales: 1
